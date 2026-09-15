@@ -1,4 +1,4 @@
-## **Compliance/nist-800-53-mapping.md**
+## **Compliance/NIST-800-53-mapping.md**
 
 ```markdown
 # NIST 800-53 Control Mapping
